@@ -1,4 +1,0 @@
-mysql-connector-python
-python-dotenv
-fpdf
-pydantic
